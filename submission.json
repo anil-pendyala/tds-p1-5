@@ -1,0 +1,7 @@
+{
+  "prompt": "A vast dark hall, stretching infinitely into the distance. Hundreds of thousands of small white candles arranged in a perfect dense grid on the floor, each one lit and glowing warmly. But scattered throughout — randomly, unexpectedly — some candles have gone out. Their wicks still smoke faintly. The extinguished ones leave cold dark voids in the warm field of light. The camera is low, at floor level, looking across the endless sea of flames and absences. Somber, haunting, deeply human. Cinematic lighting, photorealistic, 8K, editorial photography style, National Geographic, no text, no labels, no axes, no charts. Negative prompt: bar chart, graph, infographic, data visualization, text, labels, legend, axes, numbers, diagram, generic stock photo",
+  "model": "FILL IN — e.g. DALL-E 3, Midjourney v6.1",
+  "dataset_name": "WHO Global Health Estimates — Suicide Mortality Data",
+  "dataset_url": "https://www.who.int/teams/mental-health-and-substance-use/data-research/suicide-data",
+  "insight": "Every 40 seconds, someone in the world dies by suicide — more deaths each year than war and homicide combined."
+}
